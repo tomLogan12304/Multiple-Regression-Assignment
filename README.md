@@ -12,4 +12,4 @@ GEO411
 
 5. Tools- R Studio regression plotting
 
-6. 
+6. Reflection-This assignment is was the most difficult in terms of key findings, however, it was extremely insightful in learning how to use and understand the variations of regression such as stepwise, forward, and backwards. This assignment was probably the most helpful in learning how to solve confunding variables that can skew our data sets. 
